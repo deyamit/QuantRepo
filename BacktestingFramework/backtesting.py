@@ -89,7 +89,6 @@ class Strategy():
         """
         pass
 
-
 class Order():
     def __init__(self, ticker, size, side, idx):
         self.ticker = ticker
